@@ -1,0 +1,27 @@
+h1 {
+    background-color: #009dff;
+    color: #ffffff;
+}
+p {
+    background-color: #faebd7;
+    color: #000;
+}
+button{
+    padding: 10px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: hsl(203, 100%, 50%);
+}
+button::active{
+    background-color: #000;
+    color: aqua;
+}
+:link {
+    color: red;
+}
+
+a:visited {
+    color: green;
+    }
+ 
