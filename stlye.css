@@ -1,12 +1,14 @@
-h1 {
-    background-color: #009dff;
-    color: #ffffff;
-}
 p {
-    background-color: #faebd7;
-    color: #000;
+    border: 5px solid black;
+    padding: 100px;
+    max-width: 700px;
+    min-width: 400px;
+    overflow: scroll;
+    margin:10px;
+    min-height: 100px;
+    max-height: 200PX;
 }
-button{
+/* button{
     padding: 10px;
     cursor: pointer;
 }
@@ -24,4 +26,4 @@ button::active{
 a:visited {
     color: green;
     }
- 
+  */
